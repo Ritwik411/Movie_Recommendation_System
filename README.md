@@ -7,6 +7,10 @@ Movie recommendation systems provide a mechanism to assist users in classifying 
 
 ## Project Requirements - 
 1. Jupyter Notebook
+2. Python 3.x 
+
+## Libraries Required -
+1. Pandas
 2. Pytorch
-3. Python 3.x 
-4. Movie Lens Dataset
+3. Numpy
+4. Os
